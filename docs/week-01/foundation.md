@@ -20,7 +20,7 @@ This includes:
 - [x] Git repository initialized
 - [x] Basic project structure created
 - [x] README created
-- [ ] Next.js frontend
+- [x] Next.js frontend
 - [ ] FastAPI backend
 - [ ] PostgreSQL
 - [ ] pgvector
@@ -43,3 +43,18 @@ FastAPI Backend
        |
        v
 PostgreSQL + pgvector
+
+## Frontend Setup
+
+The frontend was initialized using Next.js 16.3.1 with:
+
+- TypeScript
+- Tailwind CSS
+- ESLint
+- App Router
+- Turbopack
+
+The development server was successfully started at:
+
+```text
+http://localhost:3000
